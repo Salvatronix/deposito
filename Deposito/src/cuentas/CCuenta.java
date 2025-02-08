@@ -19,7 +19,7 @@ public class CCuenta {
     }
     
     
-
+//Cambios en el codigo: enunciado 3.2
     public String getNombre() {
 		return nombre;
 	}
